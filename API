@@ -1,0 +1,17 @@
+[
+    {
+        "issuer":"http://idp.example.org/openid-connect-server/",
+        "image":"http://idp.example.org/provider.jpg",
+        "descriptor":"Example Provider""LestherGuevara"
+    },
+    {
+        "issuer":"http://another.example.org/openid-connect-server/",
+        "image":"http://another.example.org/another.jpg",
+        "descriptor":"Another Provider"
+    },
+    {
+        "issuer":"http://3.example.org/openid-connect-server/",
+        "image":"http://3.example.org/3.jpg",
+        "descriptor":"Third Provider"
+    }
+]
